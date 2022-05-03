@@ -1,7 +1,7 @@
-Chicago/NYC/n
-SWE @ Grubhub/n
-Primary order taking platform/n
-University of Michigan
+Chicago/NYC - 
+SWE @ Grubhub - 
+Primary order taking platform - 
+University of Michigan - 
 
 <!---
 adakeefer/adakeefer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
