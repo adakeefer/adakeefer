@@ -1,6 +1,6 @@
-Chicago/NYC
-SWE @ Grubhub
-Primary order taking platform
+Chicago/NYC/n
+SWE @ Grubhub/n
+Primary order taking platform/n
 University of Michigan
 
 <!---
