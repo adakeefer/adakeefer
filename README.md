@@ -1,7 +1,4 @@
-Chicago/NYC - 
-SWE @ Grubhub - 
-Primary order taking platform - 
-University of Michigan
+Software Engineer with 3 years of experience building backend services, designing complex distributed systems, and scaling infrastructure. Likes system design, productivity hacks, and creativity. Umich Alum.
 
 <!---
 adakeefer/adakeefer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
