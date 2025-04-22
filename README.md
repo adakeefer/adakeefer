@@ -1,4 +1,5 @@
-Software Engineer with 3 years of experience building backend services, designing complex distributed systems, and scaling infrastructure. Likes system design, productivity, and creativity.
+SWE building AI Infra @Meta
+Likes system design, productivity, and creativity.
 
 <!---
 adakeefer/adakeefer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
