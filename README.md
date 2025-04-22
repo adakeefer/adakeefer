@@ -1,4 +1,5 @@
-SWE building AI Infra @Meta.\n
+SWE building AI Infra @Meta.
+
 Likes system design, productivity, and creativity.
 
 <!---
