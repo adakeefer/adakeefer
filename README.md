@@ -1,6 +1,4 @@
-SWE building AI Infra @Meta.
-
-Likes system design, productivity, and creativity.
+AI Infra @Meta.
 
 <!---
 adakeefer/adakeefer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
