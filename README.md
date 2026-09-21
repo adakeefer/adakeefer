@@ -1,4 +1,4 @@
-AI Infra @Meta.
+Infra @ Aaru
 
 <!---
 adakeefer/adakeefer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
